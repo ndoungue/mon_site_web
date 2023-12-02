@@ -1,1 +1,2 @@
-mon site web pour le cours git
+site web pour la formation git
+
